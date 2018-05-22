@@ -1,0 +1,211 @@
+@charset "utf-8";
+	.tr form input{
+		width: 380px;
+		height: 26px;
+		border:1px solid black;
+		background-position: 360px center;
+	}
+	.banner{
+		position: relative;
+	}
+		.banner .text1{
+			width: 312px;
+			height: 208px;
+			position: absolute;
+			left:50%; top:20px;
+			margin-left: -700px;
+		}
+			.banner .img1 .pdm{
+				height:400px;
+			}
+	.cp{
+		margin-left: 18px;
+	}
+		.cp div{
+				width: 310px;
+				height: 185px;
+				float: left;
+				margin-right: 5px;
+			}
+				.cp div img{
+					width: 310px;
+					height: 159px;
+				}
+	.lxaz{
+		margin-top:25px;
+		margin-bottom: 75px;
+	}
+		.lxaz h1{
+			font-weight: normal;
+			margin-bottom: 30px;
+		}
+		.lj{
+			margin-bottom: 22px;
+			width: 150px;
+			margin-right: 68px;
+			float: left;
+		}
+			.lj a{
+				width: 150px;
+				font-size: 16px;
+				color: #65BBE8;
+				display: inline-block;
+				margin-bottom: 25px;
+			}
+		.sy{
+			float: right;
+			width: 744px;
+			margin-bottom: 57px;
+		}
+			.sy p{
+				margin-bottom: 15px;
+			}
+				.sy p a{
+					width: 126px;
+					height: 29px;
+					display: inline-block;
+					font-size: 14px;
+					color: #000;
+					line-height: 29px;
+					text-align: center;
+				}
+					.sy p a:hover{
+						color: #fff;
+						background-color: #1570A6;
+					}
+			.sy div{
+				margin-bottom: 41px;
+				height: 126px;
+				width: 233px;
+				float: left;
+				margin-right: 15px;
+			}
+				.sy div img{
+					height: 126px;
+					width: 233px;
+				}
+				.sy div a{
+					font-size: 12px;
+					color: #1586C4;
+					margin-left: 0;
+				}
+		.cxz{
+			margin-bottom: 58px;
+			float: left;
+			width: 128px;
+			margin-right: 120px;
+		}
+			.cxz li{
+				margin-bottom: 16px;
+			}
+			.cxz li a{
+				font-size: 12px;
+				color: #1586C4;
+			}
+		.ag{
+			margin-bottom: 58px;
+			float: left;
+			width: 170px;
+			margin-right: 80px;
+		}
+			.ag li{
+				margin-bottom: 16px;
+			}
+			.ag li a{
+				font-size: 12px;
+				color: #1586C4;
+			}
+	.gs{
+		height: 274px;
+	}
+		.jj{
+			height: 226px;
+			width: 720px;
+			float: right;
+			position: static;
+			margin-top: 24px;
+			margin-right: 21px;
+		}
+			.jj .jjp{
+				display: block;
+			}
+			.jj .jpi{
+				display: none;
+			}
+			.jj h3{
+				margin-right: 30px;
+			}
+			.jj p{
+				margin-right: 30px;
+			}
+		.gz{
+			height: 62px;
+			position: absolute;
+			left: 21px;
+			top:40px;
+			margin-right: 95px;
+			float: left;
+			}
+			.gz h1{
+					color: #fff;
+					margin-bottom: 10px;
+					font-weight: normal;
+				}
+				.gz a{
+					font-size: 16px;
+					color: #fff;
+					float: none;
+					margin-right: 0;
+				}
+				.gz p{
+					font-size: 16px;
+					color: #fff;
+					float: none;
+				}
+.bottom{
+	height: 450px;
+}
+	.qt{
+		float: left;
+		width: 158px;
+		margin-right: 86px;
+		height: 356px;
+		margin-bottom: 0;
+	}
+	.xz{
+		float: left;
+		width: 225px;
+		margin-right: 20px;
+		height: 356px;
+	}
+	.zg{
+		float: left;
+		width: 213px;
+		margin-right: 32px;
+		height: 356px;
+	}
+	.rm{
+		float: left;
+		width: 158px;
+		margin-top: 0;
+		height: 356px;
+	}
+	.yy{
+		margin-top: 0;
+		height: 23px;
+		width: 100%;
+		margin-left: 0;
+	}
+		.yy a{
+			float: left;
+			display: inline-block;
+			margin-bottom: 0;
+		}
+		.yy p{
+			float: right;
+		}
+	.bb{
+		float: left;
+		margin-top: 20px;
+		margin-left: 0;
+	}
